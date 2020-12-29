@@ -1,2 +1,2 @@
 # gunjassingh.github.io
-Personal Website
+Personal Website: gunjassingh@github.io
